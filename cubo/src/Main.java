@@ -6,7 +6,7 @@ public class Main {
         // es decir cada cara es un plano y por lo cual podesmos escribirlo como
         //coordenadas cartesianas.
 
-        String [] colores= new String[9];
+        String [] colores= new String[6];
         Scanner ssc= new Scanner(System.in);
         System.out.println("Ingrese los colores de las caras del cubo");
         for(int i=0;i<6;i++)
